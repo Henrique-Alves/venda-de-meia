@@ -1,0 +1,51 @@
+section header{
+   padding: 50px 3em 0 0;
+   background: linear-gradient(#116911, #13ce13); 
+   
+}
+
+section body{
+    background: #ffffff;
+    margin: 0 0 0 40em;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.principal1{
+    margin: 1em 0 0 0;
+}
+
+.cor1{
+    background:#1333c5;
+}
+
+.cor2{
+    background:#117e2c;
+}
+
+button{
+    padding: 10px 35px;
+    background: #4771e4;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.cart{
+    display: inline-block;
+    position: absolute;
+    right: 80px;
+    margin: 0 0 100px 0;
+}
+.topo{
+    display: block;
+}
+
+.img{
+    margin: 0 0 0 -30em;
+    float: left;
+}
+
